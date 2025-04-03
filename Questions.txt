@@ -1,0 +1,17 @@
+Question 1:-
+|| Create a class "Programmer" for storing the information of few programmer working in microsoft
+
+Question 2:-
+|| Write a class "Calculator" which is capable of finding the square, cube and square root of a number
+
+Question 3:-
+|| Create a class attribute a; create an aboject from it and set 'a' directly using object a=0. Does this change the class attribute
+
+Question 4:-
+|| Add a static method in problem 2, to greet the user with hello.
+
+Question 5:-
+|| Write a class train which has methods to book train ticket, get status(no. of seats) and get fare information of the train running under Indian Railways.
+
+Question 6:-
+|| Can you change the self-parameter inside a class to something else(Let's say "Py"). Try changing self to "slf" or "Py" and see the effects

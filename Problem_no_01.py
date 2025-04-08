@@ -2,7 +2,7 @@
 # || Create a class "Programmer" for storing the information of few programmer working in microsoft
 
 class programer:
-    
+    company = "Microsoft"
     # Constructor to initialize object and collect programmer data
     def __init__(self):
 
@@ -20,10 +20,11 @@ class programer:
     # Method to write the collected data to a file
     def update_info_file(self):
         # Opens a file in write mode and storing the dictionary values as a string
-        with open("data.txt", "w") as f:
+        with open("microsoft.txt", "w") as f:
             f.write(str(self.data))  # Note: This only writes it as plain string not in readable JSON format
 
 # Create an object of the class which will collect the data
 k = programer()
+print(k.company)
 # Calling the method to write the data to an wxisting file
 k.update_info_file()

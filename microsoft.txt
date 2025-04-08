@@ -1,1 +1,1 @@
-{'Robert': 'Mark_5', 'Bruce': 'Smash', 'Cris': 'Storm_breaker'}
+{'Robert': {'id': 'Mark_5', 'salary': 120000}, 'Bruce': {'id': 'Smash', 'salary': 95000}, 'Cris': {'id': 'Storm_breaker', 'salary': 50000}}

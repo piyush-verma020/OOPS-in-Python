@@ -1,17 +1,16 @@
-Question 1:-
-|| Create a class "Programmer" for storing the information of few programmer working in microsoft
+Q1> Create a class(2-D vector) and use it to create another class representing another 3-D vector.
 
-Question 2:-
-|| Write a class "Calculator" which is capable of finding the square, cube and square root of a number
+Q2> Create a class 'Pets' from a class 'Animals and further create a class 'Dog' from 'Pets'. And add a method 'bark' to class 'Dog'.
 
-Question 3:-
-|| Create a class attribute a; create an aboject from it and set 'a' directly using object a=0. Does this change the class attribute
+Q3> Create a class 'Employee' and add salary and increament properties to it.
+    Write a method 'salaryAfterIncreament' method with a @property decorator along with a setter which changes the value of increament based on the salary.
 
-Question 4:-
-|| Add a static method in problem 2, to greet the user with hello.
+Q4> Write a class 'Complex' to represent complex numbers, along with overload operators '+' and '*' which adds and multiply them.
 
-Question 5:-
-|| Write a class train which has methods to book train ticket, get status(no. of seats) and get fare information of the train running under Indian Railways.
+Q5> Write a class 'Vector' representating a vector of n dimentions. Overload + and * operator which will calculate the sum and dot(.) product of them.
 
-Question 6:-
-|| Can you change the self-parameter inside a class to something else(Let's say "Py"). Try changing self to "slf" or "Py" and see the effects
+Q6> Write a __str__() method to print the vector as follows:-
+    7i + 8j + 10k
+    Assume the dimmension 3 for this problem.
+
+Q7> Override the __len__() method on vector of problem 5 to display the dimmension of the vector.
